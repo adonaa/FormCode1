@@ -1,0 +1,11 @@
+name: FormCode1
+main: LunarMoon72\FormCode1\Main
+api: 3.21.1
+mcpe-protocal: 448
+description: This is a FormAPI test
+
+commands:
+  form1:
+    permission: formcode1.cmd
+    aliases: form
+    description: Opens the Form
